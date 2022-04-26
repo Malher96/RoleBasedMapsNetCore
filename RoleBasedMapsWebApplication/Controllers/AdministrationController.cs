@@ -19,7 +19,8 @@ namespace RoleBasedMapsWebApplication.Controllers
         [HttpGet]
         public IActionResult ListUsers()
         {
-            return View();
+            var users = userManager.Users;
+            return View(users);
         }
 
         [HttpGet]
