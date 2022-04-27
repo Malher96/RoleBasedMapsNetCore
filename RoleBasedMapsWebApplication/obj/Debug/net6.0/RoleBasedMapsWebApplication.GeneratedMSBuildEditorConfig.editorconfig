@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\malher\source\repos\RoleBasedMapsWebApplication\RoleBasedMapsWebApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/malher/source/repos/RoleBasedMapsWebApplication/RoleBasedMapsWebApplication/Areas/Identity/Pages/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/malher/source/repos/RoleBasedMapsWebApplication/RoleBasedMapsWebApplication/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -33,6 +29,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/malher/source/repos/RoleBasedMapsWebApplication/RoleBasedMapsWebApplication/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/malher/source/repos/RoleBasedMapsWebApplication/RoleBasedMapsWebApplication/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/malher/source/repos/RoleBasedMapsWebApplication/RoleBasedMapsWebApplication/Views/Administration/CreateRole.cshtml]
