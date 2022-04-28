@@ -20,7 +20,7 @@
                 <h5 class="card-title">@user.UserName</h5>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-danger">Edit</a>
+                <a asp-action="EditUser" asp-controller="Administration" asp-route-id="@user.Id" class="btn btn-primary">Edit</a>
                 <a href="#" class="btn btn-danger">Delete</a>
             </div>
         </div>
@@ -36,7 +36,7 @@ else{
                 Use the button below to create a user
             </h5>
         </div>
-        <a class="btn btn-primary" style="width:auto" asp-controller="Account" asp-action="Register">
+        <a class="btn btn-primary" style="width:auto" asp-controller="account" asp-action="register">
             Add new user
         </a>
     </div>
